@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><xliff version="1.1">
+    <file datatype="php" source-language="en">
+        <body>
+            <trans-unit id="tl_iso_product_collection.print_package_self_booking_list.0">
+                <source>Print package self booking list</source>
+                <target>Print package self booking list</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product_collection.print_package_self_booking_list.1">
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product_collection.shipment_tracking.0">
+                <source>Shipment tracking DPD (Tracking ID)</source>
+                <target>Shipment tracking DPD (Tracking ID)</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product_collection.shipment_tracking.1">
+                <source></source>
+                <target></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

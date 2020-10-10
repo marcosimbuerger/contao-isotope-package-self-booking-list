@@ -1,0 +1,58 @@
+<?xml version="1.0" ?><xliff version="1.1">
+    <file datatype="php" source-language="en">
+        <body>
+            <trans-unit id="MSC.PackageSelfBookingList">
+                <source>Package self booking list</source>
+                <target>Package self booking list</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Sender">
+                <source>Sender</source>
+                <target>Sender</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Date">
+                <source>Date</source>
+                <target>Date</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_CustomerNumber">
+                <source>Customer number</source>
+                <target>Customer number</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Number">
+                <source>No.</source>
+                <target>No.</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_PackageNumber">
+                <source>Package number</source>
+                <target>Package number</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Recipient">
+                <source>Recipient</source>
+                <target>Recipient</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_IntZip">
+                <source>Int. Zip</source>
+                <target>Int. Zip</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Destination">
+                <source>Destination</source>
+                <target>Destination</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Weight">
+                <source>Weight kg</source>
+                <target>Weight kg</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_Notes">
+                <source>Notes</source>
+                <target>Notes</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_NumberOfPackages">
+                <source>Number of packages</source>
+                <target>Number of packages</target>
+            </trans-unit>
+            <trans-unit id="MSC.PackageSelfBookingList_SignatureDriver">
+                <source>Signature of pick-up driver</source>
+                <target>Signature of pick-up driver</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

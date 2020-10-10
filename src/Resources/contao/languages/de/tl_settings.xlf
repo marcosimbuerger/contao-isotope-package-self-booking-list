@@ -1,0 +1,34 @@
+<?xml version="1.0" ?><xliff version="1.1">
+    <file datatype="php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="tl_settings.isotope_package_self_booking_list__legend">
+                <source>Package self booking list</source>
+                <target>Selbstbucherliste</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListSender.0">
+                <source>Sender of package self booking list</source>
+                <target>Absender der Selbstbucherliste</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListSender.1">
+                <source>Add a sender name, which will be printed on the package self booking list.</source>
+                <target>Fügen Sie einen Absendernamen ein, der auf der Selbstbucherliste angezeigt wird.</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListCustomerNumber.0">
+                <source>Customer number of package self booking list</source>
+                <target>Kundennummer der Selbstbucherliste</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListCustomerNumber.1">
+                <source>Add a customer name, which will be printed on the package self booking list.</source>
+                <target>Fügen Sie die Kundennummer ein, die auf der Selbstbucherliste angezeigt wird.</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListDocumentName.0">
+                <source>Document name of the package self booking list</source>
+                <target>Dokumentname der Selbstbucherliste</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.isotopePackageSelfBookingListDocumentName.1">
+                <source>Add a document name, which will be used for the package self booking list.</source>
+                <target>Fügen Sie einen Dokumentennamen ein, der für die Selbstbucherliste verwendet wird.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
