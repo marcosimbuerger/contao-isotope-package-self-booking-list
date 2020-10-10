@@ -87,7 +87,7 @@ class PackageSelfBookingListPrinter {
                 $pdf = $pdfGenerator->generatePdf($documentName, $renderedTemplate);
 
                 // Output to the browser.
-                $pdf->Output($documentName . 'pdf', 'D');
+                $pdf->Output($documentName . '.pdf', 'D');
             } else {
                 $this->printErrorMessageAndRedirect('Could not load session ids.', __FUNCTION__);
             }
