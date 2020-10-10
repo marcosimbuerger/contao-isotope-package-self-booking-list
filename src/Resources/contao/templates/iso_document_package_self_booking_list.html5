@@ -33,7 +33,7 @@
                 <tr>
                     <td><?= $number; ?></td>
                     <td>&nbsp;</td>
-                    <td><?= $shippingAddress->firstname; ?> <?= $shippingAddress->firstname; ?><br /><?= $shippingAddress->street_1; ?></td>
+                    <td><?= $shippingAddress->firstname; ?> <?= $shippingAddress->lastname; ?><br /><?= $shippingAddress->street_1; ?></td>
                     <td><?= strtoupper($shippingAddress->country); ?> <?= $shippingAddress->postal; ?></td>
                     <td><?= $shippingAddress->city; ?></td>
                     <td><?= $order->addToScale()->amountIn('kg'); ?></td>
